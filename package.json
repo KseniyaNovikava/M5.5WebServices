@@ -1,0 +1,21 @@
+{
+  "name": "m5.5webservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "request.js",
+  "dependencies": {
+    "jasmine": "^2.7.0",
+    "request-promise": "^4.2.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  },
+  "scripts": {
+    "test": {
+      "test": "jasmine"
+    }
+  },
+  "author": "",
+  "license": "ISC"
+}
